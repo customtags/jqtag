@@ -1,15 +1,23 @@
 {
-	"name": "webmodules-jqtag",
-	"main": "jqtag.js",
-	"authors": ["Lalit Tanwar <lalit.tanwar07@gmail.com>"],
-	"description": "A tag library based on pitana and jquery, to comply with foo ",
-	"keywords": ["pitana", "jquery"],
-	"dependencies": {
-		"webmodules-foo": ">=3.0.0",
-		"webmodules-webcomponentsjs": ">=0.5.3",
-		"jqgeeks-pitana.js": "~1.0.7",
-		"webmodules-jquery": ">=1.8"
-	},
-	"license": "MIT",
-	"ignore": ["**/.*", "node_modules", "bower_components"]
+  "name": "customtags-tag",
+  "main": "jqtag.js",
+  "authors": [
+    "Lalit Tanwar <lalit.tanwar07@gmail.com>"
+  ],
+  "description": "A tag library based on pitana and jquery, to comply with foo ",
+  "keywords": [
+    "pitana",
+    "jquery"
+  ],
+  "dependencies": {
+    "webmodules-foo": ">=3.0.0",
+    "webmodules-webcomponentsjs": ">=0.5.3",
+    "jqgeeks-pitana.js": "~1.0.7"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
 }
